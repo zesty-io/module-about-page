@@ -1,0 +1,104 @@
+
+  - description: ""
+    label: "About"
+    name: "about"
+    sort: 120
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/about.tpl"
+    content: "/content/about.yaml"
+    fields:
+      - name: "title"
+        label: "title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: true
+        relationship: null
+        settings:
+          list: true
+      - name: "content"
+        label: "content"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Team Member"
+    name: "team_member"
+    sort: 122
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "about"
+    content: "/content/team_member.yaml"
+    fields:
+      - name: "name"
+        label: "Name"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "job_title"
+        label: "Job Title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "image"
+        label: "Image"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Services"
+    name: "services"
+    sort: 123
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "about"
+    content: "/content/services.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "content"
+        label: "Content"
+        description: ""
+        datatype: "article_writer"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "image"
+        label: "Image"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true

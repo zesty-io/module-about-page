@@ -1,0 +1,61 @@
+
+  - id: "4b23-c35d-e821"
+    web:
+      metaDescription: ""
+      metaTitle: "Ronan"
+      metaLinkText: "Ronan"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 125
+      listed: true
+    data:
+      image: "https://rndhrw0l.media.zestyio.com/team-member-2.webp"
+      job_title: "Developer"
+      name: "Ronan"
+  - id: "393d-a1e3-15a8"
+    web:
+      metaDescription: ""
+      metaTitle: "Sean Wilson"
+      metaLinkText: "Sean Wilson"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 126
+      listed: true
+    data:
+      image: "https://rndhrw0l.media.zestyio.com/team-member-4.webp"
+      job_title: "Web Designer"
+      name: "Sean Wilson"
+  - id: "36a7-3a5b-86e1"
+    web:
+      metaDescription: ""
+      metaTitle: "John Doe"
+      metaLinkText: "John Doe"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 124
+      listed: true
+    data:
+      image: "https://rndhrw0l.media.zestyio.com/team-member-5.webp"
+      job_title: "CEO"
+      name: "John Doe"
