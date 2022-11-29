@@ -1,0 +1,67 @@
+
+  - id: "3746-7e2d-8580"
+    web:
+      metaDescription: "Chris Hemsworth, in full Christopher Hemsworth, is an Australian actor who came to fame for his role as Thor in several Marvel Cinematic Universe movies. He als"
+      metaTitle: "Chris Hemsworth "
+      metaLinkText: "Chris Hemsworth "
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      client_desc: "<p>Chris Hemsworth, in full Christopher Hemsworth, is an Australian actor who came to fame for his role as Thor in several Marvel Cinematic Universe movies. He also played Inspector Gerard Nash in a television series: Unforgotten.</p>"
+      client_haircut: "Haircut - Layered Locks"
+      client_img: "https://p8gf1q61.media.zestyio.com/thor.png"
+      client_name: "Chris Hemsworth "
+      sort_order: 3
+  - id: "82b1-a30b-dfcc"
+    web:
+      metaDescription: "LeBron James is an American basketball player with the Los Angeles Lakers. He is a five-time NBA champion and has been named to 15 All-NBA teams. James won thre"
+      metaTitle: "Lebron James"
+      metaLinkText: "Lebron James"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 104
+      listed: true
+    data:
+      client_desc: "<p>LeBron James is an American basketball player with the Los Angeles Lakers. He is a five-time NBA champion and has been named to 15 All-NBA teams. James was named USA Today All-USA Player of the Year during his senior year of high school.</p>"
+      client_haircut: "Haircut - Crew Cut (w/ taper fade)"
+      client_img: "https://p8gf1q61.media.zestyio.com/lbj.png"
+      client_name: "Lebron James"
+      sort_order: 2
+  - id: "56f0-def3-248d"
+    web:
+      metaDescription: "John Cena is one of the greatest professional wrestlers in the history of WWE, and is a unique crossover icon. He has appeared in films such as The Marine and T"
+      metaTitle: "John Cena "
+      metaLinkText: "John Cena "
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 103
+      listed: true
+    data:
+      client_desc: "<p>John Cena is one of the greatest professional wrestlers in the history of WWE, and is a unique crossover icon. He has appeared in films such as The Marine and The Other Guys, and had success with books such as My Word Is My Bond.</p>"
+      client_haircut: "Haircut - Marine Cut"
+      client_img: "https://p8gf1q61.media.zestyio.com/johncena.jpg"
+      client_name: "John Cena "
+      sort_order: 1

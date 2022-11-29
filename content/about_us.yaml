@@ -1,0 +1,30 @@
+
+  - id: "6de5-017f-de69"
+    web:
+      metaDescription: ""
+      metaTitle: "About-Us"
+      metaLinkText: "About-Us"
+      metaKeywords: null
+      pathPart: "about-us"
+      path: "/about-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      advertisement: "Learn more about us"
+      article_caption_l: "<p>Established in 1978, HairSoft has grown from a small barber shop to one of the largest network of branches nationwide. With its stylish, modern interior and commitment to provide excellent customer service, it has become the go-to place for men&rsquo;s grooming</p>"
+      article_caption_r: "<p>We offer professional barbershop services in a warm and welcoming atmosphere. Our barbers are passionate about their craft, and we&rsquo;re dedicated to ensuring that every guest has an outstanding experience. We also offer grooming services like beard trimming and ear cleaning as well as advanced nail treatments that personalize your facial treatment. Stop by today!</p>"
+      article_title_l: "Who we are"
+      article_title_r: "What we do"
+      bg_img: "https://p8gf1q61.media.zestyio.com/raghavendra-v-konkathi-dbxMbfTdv-o-unsplash.jpg"
+      button_name: "Check us out"
+      client_desc: "<p>Come and meet our Clients</p>"
+      client_header: "Our Clients"
+      header_desc: "<p>Learn more about HairSoft</p>"
+      header_img: "https://p8gf1q61.media.zestyio.com/keith-misner-h0Vxgz5tyXA-unsplash.jpg"
+      header_title: "About Us"

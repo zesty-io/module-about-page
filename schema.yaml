@@ -1,0 +1,175 @@
+
+  - description: ""
+    label: "About-Us"
+    name: "about_us"
+    sort: 100
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/about_us.tpl"
+    content: "/content/about_us.yaml"
+    fields:
+      - name: "header_img"
+        label: "Header Img"
+        description: ""
+        datatype: "images"
+        sort: 0
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "header_title"
+        label: "Header Title"
+        description: ""
+        datatype: "text"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "header_desc"
+        label: "Header Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "article_title_l"
+        label: "Article title left"
+        description: ""
+        datatype: "text"
+        sort: 3
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "article_caption_l"
+        label: "Article Caption Left"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 5
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "article_title_r"
+        label: "Article title right"
+        description: ""
+        datatype: "text"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "article_caption_r"
+        label: "Article Caption Right"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "client_header"
+        label: "Client Header"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "client_desc"
+        label: "Client Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "button_name"
+        label: "Button Name"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "advertisement"
+        label: "Advertisement"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "bg_img"
+        label: "BG Img"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "About-Clients"
+    name: "about_clients"
+    sort: 102
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "about_us"
+    content: "/content/about_clients.yaml"
+    fields:
+      - name: "client_name"
+        label: "Client Name"
+        description: ""
+        datatype: "text"
+        sort: 0
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "client_desc"
+        label: "Client Desc"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "client_img"
+        label: "Client Img"
+        description: ""
+        datatype: "images"
+        sort: 3
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_order"
+        label: "Sort Order"
+        description: ""
+        datatype: "sort"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "client_haircut"
+        label: "Client Haircut"
+        description: ""
+        datatype: "text"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
