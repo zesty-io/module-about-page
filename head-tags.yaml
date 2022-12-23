@@ -1,14 +1,14 @@
+  - type: "script"
+    attributes:
+      src: "//code.jquery.com/jquery-1.11.1.min.js"
+    sort: 0
   - type: "link"
     attributes:
       href: "//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"
       rel: "stylesheet"
       id: "bootstrap-css"
-    sort: 0
-  - type: "script"
-    attributes:
-      src: "//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"
     sort: 1
   - type: "script"
     attributes:
-      src: "//code.jquery.com/jquery-1.11.1.min.js"
+      src: "//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"
     sort: 2
