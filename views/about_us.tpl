@@ -1,6 +1,3 @@
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-
 <div class="image-aboutus-banner w-100" style="background: url({{this.header_img.getImage()}});">
 	<div class="container">
 		<div class="row">
@@ -82,7 +79,7 @@
                 <h3><span class="glyphicon glyphicon-cog "></span>{{this.advertisement}}</h3>
             </div>
             <div class="col-md-3 col-sm-3 col-xs-12 Tpadding10">
-                <button type="button" class="btn btn-primary site-btn">{{this.button_name}}</button>
+                <a href="" target"_top"><button type="button" class="btn btn-primary site-btn">{{this.button_name}}</button></a>
             </div>
         </div>
     </div>

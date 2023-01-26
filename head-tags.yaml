@@ -12,3 +12,11 @@
     attributes:
       src: "//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"
     sort: 2
+  - type: "script"
+    attributes:
+      src: "//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
+    sort: 3
+  - type: "script"
+    attributes:
+      src: "https://fonts.googleapis.com/css?family=Roboto"
+    sort: 4
